@@ -40,4 +40,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: registry.inphrcare.com/test10/api:dev
+          tags: registry.inphrcare.com/demo/api:dev
